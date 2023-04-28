@@ -18,7 +18,7 @@ function Impressum() {
                 <br></br>
                 <p>USt. wird nicht ausgewiesen, da die Verkäuferin Kleinunternehmerin im Sinne des UStG ist.</p>
                 <p>Plattform der EU-Kommission zur Online-Streitbeilegung: https://ec.europa.eu/odr</p>
-                <p>Wir sind zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle weder verpflichtet noch bereit.</p>
+                <p>Ich bin zur Teilnahme an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle nicht bereit und nicht verpflichtet.</p>
             </div>
         </div>
     );

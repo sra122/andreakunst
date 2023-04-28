@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.uk-navbar-dropdown {
+  background-color: #297873;
+}
+
+.uk-card-default {
+  background-color: #297873;
+  color: white !important;
+}
+
+.uk-card-default .uk-card-title {
+  color: white;
+}
+
+.uk-button-primary {
+  background-color: #297873;
+}
+
+.uk-button-primary:hover {
+  background-color: #297873;
+}
+
+.uk-input, .uk-select, .uk-textarea {
+  background: #FFF9BA;
+  border: 1px solid black;
+}
