@@ -33,7 +33,7 @@ function Navigation() {
                     </li>
                     <li><a href="/gallery">Galerie</a></li>
                     <li><a href="/about">Über mich</a></li>
-                    <li><a href="/zimmer-vermietung">ZimmerVermietung</a></li>
+                    <li><a href="/zimmer-vermietung">Zimmervermietung</a></li>
                     <li><a href="/contact">Kontakt</a></li>
                 </ul>
             </div>
@@ -49,7 +49,7 @@ function Navigation() {
                                 <li><a href="/verkauf">Verkauf</a></li>
                                 <li><a href="/gallery">Galerie</a></li>
                                 <li><a href="/about">Über mich</a></li>
-                                <li><a href="/zimmer-vermietung">ZimmerVermietung</a></li>
+                                <li><a href="/zimmer-vermietung">Zimmervermietung</a></li>
                                 <li><a href="/contact">Kontakt</a></li>
                             </ul>
                         </div>
